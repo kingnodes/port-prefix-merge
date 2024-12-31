@@ -1,1 +1,22 @@
-{}
+{
+    "avalanche": 1116,
+    "Polygon": 1117,
+    "Arbitrum": 1118,
+    "Polygon zkEVM": 1120,
+    "Base": 1135,
+    "BNBChain": 1121,
+    "Gnosis": 1122,
+    "Linea": 1105,
+    "Mantle": 1106,
+    "Astar": 1131,
+    "Optimism": 1133,
+    "Scroll": 1134,
+    "Celo": 1136,
+    "Mode": 1139,
+    "Blast": 1141,
+    "XLayer": 1142,
+    "OMNI": 1143,
+    "Autonity": 1144,
+    "Ronin": 1145,
+    "Kroma": 1146
+}
