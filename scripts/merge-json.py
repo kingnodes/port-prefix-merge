@@ -23,9 +23,10 @@ used_networks = set()
 # Function to merge data from a JSON source
 def merge_data(source_data):
     for network, port in source_data.items():
-        if network not in used_networks and port not in used_ports:
-            merged_data[network] = port
-            used_networks.add(network)
+        network_lower = network.lower()
+        if network_lower not in used_networks and port not in used_ports:
+            merged_data[network_lower] = port
+            used_networks.add(network_lower)
             used_ports.add(port)
 
 # Fetch and merge external JSON data
