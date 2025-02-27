@@ -199,9 +199,9 @@
     "medasdigital": 305,
     "native": 306,
     "lumera": 307,
+    "sphx": 308,
     "initia_yominet": 400,
     "initia_civitia": 401,
-    "solana": 8899,
     "avalanche": 1116,
     "polygon": 1117,
     "arbitrum": 1118,
@@ -221,5 +221,6 @@
     "omni": 1143,
     "autonity": 1144,
     "ronin": 1145,
-    "kroma": 1146
+    "kroma": 1146,
+    "solana": 8899
 }
